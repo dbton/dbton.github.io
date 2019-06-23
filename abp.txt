@@ -1,4 +1,6 @@
-! Title: MY abp List
+[Adblock Plus 2.0]
+! Version: 20190623
+! Title: My abp list
 
 !--------------------------General blocking rules-----------------------------!
 !远景论坛
