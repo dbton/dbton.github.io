@@ -1,3 +1,6 @@
+! Title: MY abp List
+
+!--------------------------General blocking rules-----------------------------!
 !远景论坛
 !首页留白
 pcbeta.com#?#:-abp-has(> .forum_top_sub)
