@@ -1,7 +1,5 @@
-[Adblock Plus 2.0]
-! Version: 20190623
 ! Title: My abp list
-
+!
 !--------------------------General blocking rules-----------------------------!
 !远景论坛
 !首页留白
@@ -10,7 +8,7 @@ pcbeta.com#?#:-abp-has(> .forum_top_sub)
 pcbeta.com###focus
 !字体效果
 ||pcbeta.com/data/cache/ggk.js$script
-
+!
 !360影视
 360kan.com##div[data-block="tj-jpyx"]
 360kan.com##div[data-block="tj-baiduad"]
@@ -20,7 +18,7 @@ pcbeta.com###focus
 360kan.com##div[data-block="top位置广告"]
 !首页推荐
 ||360kan.com/hotlistquery?cb=__jsonp0__&ver=2&fmt=jsonp&t=
-
+!
 !老殁
 !直线动态效果
 ||laomo.me/cdn/js/line.js
