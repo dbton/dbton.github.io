@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>更改部署</title>
+      <link href="/2019/07/20/%E6%9B%B4%E6%94%B9%E9%83%A8%E7%BD%B2/"/>
+      <url>/2019/07/20/%E6%9B%B4%E6%94%B9%E9%83%A8%E7%BD%B2/</url>
+      
+        <content type="html"><![CDATA[<p>最近网站总是无法访问，遂放弃coding部署方式，采用github单部署加flarecloud免费cdn方式。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>你好，世界</title>
       <link href="/2019/06/24/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C/"/>
       <url>/2019/06/24/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C/</url>
