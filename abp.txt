@@ -19,10 +19,3 @@ bilibili.com###fixed_app_download
 ||tianqi.2345.com/js/jquery.js
 ||p.ssl.qhimg.com/*.png
 ||p0.qhimg.com/t*.png
-@@||youku.com/cms/playlog/get?
-||hjfile.cn/analytics/site/TrackEvent.js
-|http://ark.letv.com/s?ark=*&ct=$redirect=http://ark.letv.com/s?ark=0
-|http://apple.www.letv.com/
-||webp2p.letv.com
-||letvimg.com/$object-subrequest
-||letvimg.com/gugwl/201*.jpg
