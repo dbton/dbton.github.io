@@ -19,3 +19,5 @@ bilibili.com###fixed_app_download
 ||tianqi.2345.com/js/jquery.js
 ||p.ssl.qhimg.com/*.png
 ||p0.qhimg.com/t*.png
+!知乎adblock检测
+zhihu.com##.AdblockBanner
