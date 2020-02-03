@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201908222123
+! Version: 202002032133
 ! Title:  My abp filter
-! Last modified: 2019/08/22 19:59:25 +0800
+! Last modified: 2020/02/03 21:33:25 +0800
 pcbeta.com###focus
 360kan.com##div[data-block="tj-jpyx"]
 360kan.com##div[data-block="tj-baiduad"]
