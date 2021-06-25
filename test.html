@@ -13,6 +13,7 @@
 		var url = "https://wwww.baidu.com/"
 		http.open("GET",url,true);
 		http.setRequestHeader("Accept","text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9");
+		http.setRequestHeader("Origin","https://www.baidu.com")
 		http.send();
 		http.onreadystatechange = () => {
 			if (http.readyState === 4 && http.status === 200) {
